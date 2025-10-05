@@ -1,0 +1,52 @@
+[
+    {
+        "S_NO": "101",
+        "AIRLINES_NAME": "Air India",
+        "DEPARTURE": "DELHI",
+        "DESTINATION": "MUMBAI",
+        "FLIGHT_NO": "AI101",
+        "TIME_OF_DEPARTURE": "2025-10-10 09:00",
+        "TIME_OF_ARRIVAL": "2025-10-10 11:30",
+        "CHARGES": 2000
+    },
+    {
+        "S_NO": "205",
+        "AIRLINES_NAME": "Vistara",
+        "DEPARTURE": "MUMBAI",
+        "DESTINATION": "BANGALORE",
+        "FLIGHT_NO": "UK876",
+        "TIME_OF_DEPARTURE": "2025-11-20 18:30",
+        "TIME_OF_ARRIVAL": "2025-11-20 20:15",
+        "CHARGES": 4500
+    },
+    {
+        "S_NO": "301",
+        "AIRLINES_NAME": "SpiceJet",
+        "DEPARTURE": "CHENNAI",
+        "DESTINATION": "KOLKATA",
+        "FLIGHT_NO": "SG301",
+        "TIME_OF_DEPARTURE": "2025-10-25 22:00",
+        "TIME_OF_ARRIVAL": "2025-10-26 00:30",
+        "CHARGES": 3800
+    },
+    {
+        "S_NO": "402",
+        "AIRLINES_NAME": "IndiGo",
+        "DEPARTURE": "HYDERABAD",
+        "DESTINATION": "GOA",
+        "FLIGHT_NO": "6E402",
+        "TIME_OF_DEPARTURE": "2025-11-05 07:00",
+        "TIME_OF_ARRIVAL": "2025-11-05 08:30",
+        "CHARGES": 5200
+    },
+    {
+        "S_NO": "510",
+        "AIRLINES_NAME": "Emirates",
+        "DEPARTURE": "DUBAI",
+        "DESTINATION": "LONDON",
+        "FLIGHT_NO": "EK510",
+        "TIME_OF_DEPARTURE": "2026-01-15 14:00",
+        "TIME_OF_ARRIVAL": "2026-01-16 00:00",
+        "CHARGES": 5500
+    }
+]

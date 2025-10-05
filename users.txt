@@ -1,0 +1,22 @@
+[
+    {
+        "NAME": "Amit Sharma",
+        "EMAIL_ADDRESS": "amit.s@email.com",
+        "PHONE": "9876543210"
+    },
+    {
+        "NAME": "Priya Kumari",
+        "EMAIL_ADDRESS": "p.k-123@work.co.in",
+        "PHONE": "8765432109"
+    },
+    {
+        "NAME": "Chirag D",
+        "EMAIL_ADDRESS": "user_c@mail.net",
+        "PHONE": "7654321098"
+    },
+    {
+        "NAME": "Shreya Patil",
+        "EMAIL_ADDRESS": "shreya.patil1",
+        "PHONE": "7009876543"
+    }
+]

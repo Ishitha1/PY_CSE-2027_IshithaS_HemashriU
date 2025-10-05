@@ -1,0 +1,38 @@
+[
+    {
+        "NAME": "Amit Sharma",
+        "PHONE": "9876543210",
+        "EMAIL": "amit.s@email.com",
+        "FLIGHT_NO": "AI101",
+        "AMOUNT": 2000,
+        "PASSPORT": "P9876543",
+        "FEEDBACK": "I love the service they provided!"
+    },
+    {
+        "NAME": "Priya Kumari",
+        "PHONE": "8765432109",
+        "EMAIL": "p.k-123@work.co.in",
+        "FLIGHT_NO": "UK876",
+        "AMOUNT": 4500,
+        "PASSPORT": "L567890X",
+        "FEEDBACK": "they should have provided more customer service!"
+    },
+    {
+        "NAME": "Priya Kumari",
+        "PHONE": "8765432109",
+        "EMAIL": "p.k-123@work.co.in",
+        "FLIGHT_NO": "SG301",
+        "AMOUNT": 3800,
+        "PASSPORT": "L567890X",
+        "FEEDBACK": "Love the service!"
+    },
+    {
+        "NAME": "Chirag D",
+        "PHONE": "7654321098",
+        "EMAIL": "user_c@mail.net",
+        "FLIGHT_NO": "EK510",
+        "AMOUNT": 5500,
+        "PASSPORT": "R1122334",
+        "FEEDBACK": ""
+    }
+]
