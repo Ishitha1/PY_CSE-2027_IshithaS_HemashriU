@@ -58,15 +58,3 @@ The system uses three main files to store data in a human-readable JSON format.
 | passengers.txt | Stores a record for each completed booking. | FLIGHT_NO, EMAIL, PASSPORT, FEEDBACK       |
 
 ---
-
-## 🛡️ Hackathon Disclosure
-
-This project's core Python logic was written originally by me (the developer). No templates or starter code were used.
-
-I utilized an AI assistant for project refinement and documentation:
-
-* **Comprehensive Testing and Robustness:** The AI was used to simulate all possible human inputs and edge cases (e.g., non-numeric input, empty files, missing data) to ensure the code's stability and to confirm that all errors were gracefully handled without crashing the application. This process directly addressed a critical `JSONDecodeError` on empty data files.
-
-* **UI/UX:** The AI suggested implementing consistent status emojis (✅, ❌, ⚠) for better command-line user experience.
-
-* **Documentation:** The AI assisted in structuring and writing this README file.
